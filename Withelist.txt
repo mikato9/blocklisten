@@ -1,2 +1,5 @@
 # Withelist für einen DNS-Adblocker
 mikatos.de
+*.mikatos.de
+mikatos.eu
+*.mikatos.eu
